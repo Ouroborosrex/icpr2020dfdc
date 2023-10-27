@@ -1,4 +1,8 @@
-#!/usr/bin/env bash
+#!/bin/bash
+
+# Set the path to the Python interpreter in your Conda environment
+# Remove this and change $PYTHON_INTERPRETER to python if desired
+#PYTHON_INTERPRETER="//wsl.localhost/Ubuntu/home/brycelinux/miniconda3/envs/GRA/bin/python"
 
 echo ""
 echo "-------------------------------------------------"
